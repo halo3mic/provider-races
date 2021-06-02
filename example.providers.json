@@ -1,0 +1,22 @@
+[
+    {
+        "name": "alchemy", 
+        "uri": "wss://XXXXXXXXXXXXXXX"
+    },
+    {
+        "name": "infura", 
+        "uri": "wss://XXXXXXXXXXXXXXX"
+    },
+    {
+        "name": "quickNode", 
+        "uri": "wss://XXXXXXXXXXXXXXX"
+    },
+    {
+        "name": "chainstack", 
+        "uri": "wss://XXXXXXXXXXXXXXX"
+    },
+    {
+        "name": "kaleido", 
+        "uri": "wss://XXXXXXXXXXXXXXX"
+    }
+]

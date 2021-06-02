@@ -1,0 +1,20 @@
+{
+  "name": "provider-races",
+  "version": "1.0.0",
+  "description": "The purpose of this module is to get a better insight into the time-performance of the Ethereum web3 providers.",
+  "main": "race.js",
+  "scripts": {
+    "race": "node ./src/race.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/halo3mic/provider-races"
+  },
+  "author": "halo3cmic",
+  "license": "ISC",
+  "homepage": "",
+  "dependencies": {
+    "csv-write-stream": "^2.0.0",
+    "ethers": "^5.0.31"
+  }
+}
